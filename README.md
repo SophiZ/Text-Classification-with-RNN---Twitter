@@ -15,6 +15,9 @@ Part I: Data Preparation<br/>
 <br/>
 Part II: Modeling<br/>
  1.Fit three models with different architectures.<br/>
+ 	Model1. LSTM + GRU<br/>
+ 	Model2. LSTM <br/>
+	Model3. Conv1D + LSTM<br/>
  2.Evaluate models with confusion matrix reports.<br/>
 <br/>
 Part III: Analysis
